@@ -24,3 +24,7 @@ hopefully this will mean i can maintain the bot as going through one upgrade was
 build and run the image with a terminal you can Ctrl-C to kill: `start.sh`
 
 daemonized it into your docker with `install.sh`
+
+## notes 
+
+you may notice that the dockerfile needs some "learning lessons" to come back and clean up earlier segment where it was just copy-pasta from the musicbot docs
